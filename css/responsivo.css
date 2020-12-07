@@ -1,0 +1,28 @@
+@media (max-width: 739px){
+  .container {
+    max-width: 300px;
+    flex-direction: column;
+  }
+
+  .menu-logo img {
+    margin: 20px auto;
+    display: block;
+  }
+
+  .intro {
+    padding: 80px 0;
+  }
+
+  .assine-info {
+    margin-bottom: 20px;
+  }
+
+  .footer p {
+    text-align: center;
+  }
+
+  .footer img {
+    display: block;
+    margin: 10px auto;
+  }
+}
